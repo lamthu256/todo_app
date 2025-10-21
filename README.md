@@ -40,16 +40,7 @@ All tasks are stored **locally on the device** (using `SharedPreferences`), so t
    cd todo_app
    ```
 
-2. **Edit `pubspec.yaml`**
-
-   ```bash
-   dependencies:
-     flutter:
-        sdk: flutter
-     shared_preferences: ^2.2.3
-   ```
-
-3. **Run the app**
+2. **Run the app**
    ```bash
    flutter pub get
    flutter run

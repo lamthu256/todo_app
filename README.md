@@ -5,8 +5,6 @@
 Learn how to **manage a simple list of tasks** using **local state** in Flutter.  
 This project helps you understand how to handle UI updates dynamically with `setState()` and display data efficiently using `ListView.builder()`.
 
----
-
 ## 📝 Description
 
 The **Todo App** lets users:
@@ -16,8 +14,6 @@ The **Todo App** lets users:
 - 🗑️ Delete tasks
 
 All tasks are stored **locally on the device** (using `SharedPreferences`), so they remain even after restarting the app.
-
----
 
 ## ⚙️ Technical Requirements
 
@@ -32,13 +28,8 @@ All tasks are stored **locally on the device** (using `SharedPreferences`), so t
 - **UI Design:**
   - Clean, minimal layout with clear task status indicators
 
----
-
 ## 🌗 UI Preview
-
-![Todo App](assets/todo.png)
-
----
+<img src="assets/todo.png" alt="Todo App" width="300"/>
 
 ## 💻 How to Run
 
